@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python
 
 def pow(a, b):
     """Return a to the power of b."""
